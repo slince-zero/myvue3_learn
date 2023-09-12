@@ -1,0 +1,1 @@
+<template>noteLabel</template>
