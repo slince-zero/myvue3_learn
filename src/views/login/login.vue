@@ -172,7 +172,7 @@
           message: '登录成功',
           type: 'success',
         })
-        router.push('/')
+        router.push('/home')
       } else {
         ElMessage({
           message: '登录失败',
