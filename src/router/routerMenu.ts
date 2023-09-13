@@ -15,6 +15,7 @@ export const routerMenu = [
     icon: 'Money',
     meta: {
       title: '财务管理',
+      // requireAuth 是一个自定义的元数据字段，用于判断当前路由是否需要进行身份验证
       requireAuth: true,
     },
     children: [
