@@ -204,6 +204,7 @@
 <style scoped lang="scss">
   .basic-layout {
     position: relative;
+    background-color: #f2f6fc;
     .nav-aside {
       position: fixed;
       height: 100vh;

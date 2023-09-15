@@ -17,6 +17,7 @@
 <script setup lang="ts">
   import lineChart from './components/lineChart.vue'
   import pipeChart from './components/pipeChart.vue'
+  //@ts-ignore
   import card from './components/card.vue'
 </script>
 
