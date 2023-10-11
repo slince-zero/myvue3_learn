@@ -61,7 +61,7 @@ export const routerMenu = [
         name: 'noteEdit',
         path: '/noteEdit',
         meta: {
-          title: '笔记编辑',
+          title: '笔记编写',
           requireAuth: true,
         },
         component: () => import('../views/noteEdit/noteEdit.vue'),
